@@ -1,0 +1,41 @@
+Copyright (c) 2020, Dpt. of Computers and Systems Engineering, University of La Laguna
+
+These files are hosted in the RIM-ONE DL GitHub repository at: https://github.com/miag-ull/rim-one-dl
+
+If you downloaded the files from a different place, please consider visiting the link above and re-downloading them to be sure that you have the correct version of the files.
+
+Data and software included in this database can only be used for research and educational purposes, free of charge and without requesting permission to the authors. Copy, redistribution, and any unauthorized commercial use are prohibited.
+
+
+If you use RIM-ONE DL in your work, please cite the following publication:
+
+FUMERO BATISTA, Francisco José et al. RIM-ONE DL: A Unified Retinal Image Database for Assessing Glaucoma Using Deep 
+Learning. Image Analysis & Stereology, oct. 2020. ISSN 1854-5165. Available at: 
+<https://www.ias-iss.org/ojs/IAS/article/view/2346>. doi: https://doi.org/10.5566/ias.2346.
+
+
+BibTeX format:
+
+@article{RIMONEDLImageAnalStereol2346,
+	author = {Francisco José Fumero Batista and Tinguaro Diaz-Aleman and Jose Sigut and Silvia Alayon and Rafael Arnay and Denisse Angel-Pereira},
+	title = {RIM-ONE DL: A Unified Retinal Image Database for Assessing Glaucoma Using Deep Learning},
+	journal = {Image Analysis & Stereology},
+	year = {2020},
+	keywords = {Convolutional Neural Networks, Deep Learning, Glaucoma Assessment, RIM-ONE},
+	issn = {1854-5165},
+	doi = {10.5566/ias.2346},
+	url = {https://www.ias-iss.org/ojs/IAS/article/view/2346}
+}
+
+
+THIS SOFTWARE AND DATABASE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE AND DATABASE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
