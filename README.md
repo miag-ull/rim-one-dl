@@ -24,7 +24,7 @@ add more images from different databases to train your model or tune your algori
 **If you use RIM-ONE DL in your work, please cite the following publication:**
 
 FUMERO BATISTA, Francisco José et al. RIM-ONE DL: A Unified Retinal Image Database for Assessing Glaucoma Using Deep 
-Learning. Image Analysis & Stereology, oct. 2020. ISSN 1854-5165. Available at: 
+Learning. Image Analysis & Stereology, v. 39, n. 3, p. 161-167, nov. 2020. ISSN 1854-5165. Available at: 
 <https://www.ias-iss.org/ojs/IAS/article/view/2346>. doi: https://doi.org/10.5566/ias.2346.
 
 
@@ -34,9 +34,12 @@ BibTeX format:
 	author = {Francisco José Fumero Batista and Tinguaro Diaz-Aleman and Jose Sigut and Silvia Alayon and Rafael Arnay and Denisse Angel-Pereira},
 	title = {RIM-ONE DL: A Unified Retinal Image Database for Assessing Glaucoma Using Deep Learning},
 	journal = {Image Analysis & Stereology},
+	volume = {39},
+	number = {3},
 	year = {2020},
-	keywords = {Convolutional Neural Networks, Deep Learning, Glaucoma Assessment, RIM-ONE},
+	keywords = {Convolutional Neural Networks; Deep Learning; Glaucoma Assessment; RIM-ONE},
 	issn = {1854-5165},
+	pages = {161--167},
 	doi = {10.5566/ias.2346},
 	url = {https://www.ias-iss.org/ojs/IAS/article/view/2346}
 }
